@@ -1,1 +1,1 @@
-Tools to let you learn and enjoy the open web.
+Building open systems and tools that make learning and exploring the world more accessible and enjoyable.
